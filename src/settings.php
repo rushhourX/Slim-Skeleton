@@ -19,8 +19,8 @@ return [
         "db" => [
             "host" => "localhost",
             "dbname" => "slim_tasks",
-            "user" => "db-user",
-            "pass" => "password"
+            "user" => "slim_tasks",
+            "pass" => "securepassword"
         ],
     ],
 ];
